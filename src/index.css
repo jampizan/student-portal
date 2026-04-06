@@ -1,7 +1,7 @@
 :root {
-  --primary-color: #6c5ce7; 
-  --bg-color: #f9f9fb;
-  --text-main: #2d3436;
+  --primary-color: #245232; 
+  --bg-color: #ffffff;
+  --text-main: #0a0a0a;
 }
 
 body {
@@ -17,7 +17,7 @@ body {
   background: var(--card-bg);
   padding: 2rem;
   border-radius: 15px;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 10px 30px rgba(226, 85, 85, 0.05);
   margin-top: 3rem !important;
 }
 
@@ -30,7 +30,7 @@ body {
 
 .form-control:focus {
   border-color: var(--primary-color);
-  box-shadow: 0 0 0 4px rgba(108, 92, 231, 0.1);
+  box-shadow: 0 0 0 4px rgba(5, 77, 38, 0.1);
   outline: none;
 }
 
